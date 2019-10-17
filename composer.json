@@ -9,15 +9,9 @@
             "email": "tandrewbennett@hotmail.com"
         }
     ],
-    "repositories": [
-		{
-			"url": "https://github.com/thisismzm/stapler.git",
-			"type": "git"
-		}
-	],
     "require": {
         "php": ">=5.4.0",
-        "thisismzm/stapler": "dev-master",
+        "codesleeve/stapler": "dev-master",
         "laravel/framework": "4.*|5.*"
     },
     "autoload": {
